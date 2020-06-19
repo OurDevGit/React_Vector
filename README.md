@@ -1,11 +1,6 @@
 react-verto-communicator
 ========================
 
-Status
-======
-
-Version 2.0.0 - in progress - 2/17/2017
-
 Installation Steps
 ==================
 
